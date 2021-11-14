@@ -1,4 +1,6 @@
 jtype: U1MIndexer
+with:
+  dim: 768
 metas:
   py_modules:
-    - executor.py
+    - hnswlib_searcher.py
