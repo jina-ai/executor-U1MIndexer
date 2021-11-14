@@ -1,2 +1,5 @@
 manifest_version: 1
 name: U1MIndexer
+description: An indexer scales under 1M documents
+url: https://github.com/jina-ai/executor-U1MIndexer
+keywords: ['indexer', 'storage', 'simple', 'ANN', 'easy', 'hnsw', 'DocumentArrayMemmap']
