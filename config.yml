@@ -3,4 +3,4 @@ with:
   dim: 768
 metas:
   py_modules:
-    - hnswlib_searcher.py
+    - executor.py
